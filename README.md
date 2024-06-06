@@ -17,3 +17,8 @@ I have used K-Means Clustering algorithm, an Unsupervised Machine Learning Algor
 
 ## Illustration
 
+![Screenshot 2024-06-06 130259](https://github.com/asquare004/Image-Compression-Tool/assets/114394057/199f6303-fe01-4872-b7dd-cb7b5e0f21be)
+
+---
+
+![Screenshot 2024-06-06 130329](https://github.com/asquare004/Image-Compression-Tool/assets/114394057/4e52e13b-0d78-4762-ac7d-d035064263af)
