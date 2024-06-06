@@ -7,7 +7,7 @@ I have used K-Means Clustering algorithm, an Unsupervised Machine Learning Algor
 - Python
 - NumPy
 - scikit-learn
-- skimage
+- scikit-image
 
 ## Instructions
 
