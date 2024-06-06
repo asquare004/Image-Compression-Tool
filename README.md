@@ -1,1 +1,1 @@
-# Image-Compression-Tool
+# Image Compression Tool
