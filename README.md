@@ -1,6 +1,6 @@
 # Image Compression Tool
 
-I have used K-Means Clustering algorithm, an Unsupervised Machine Learning Algorithm, to build a tool for image compression. The size of the compressed image depends on the number of clusters chosen. Decreasing the number of clusters will reduce the size of the image but will affect the quality of the image. Choose the number of clusters according to your personal requirements.
+I have used K-Means Clustering algorithm, an unsupervised machine learning algorithm, to build a tool for image compression. The size of the compressed image depends on the number of clusters chosen. Decreasing the number of clusters will reduce the size of the image but will affect the quality of the image. Choose the number of clusters according to your personal requirements.
 
 ## Requirements
 
